@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wxlf512
-- 👀 I’m interested in embedded and android dev
+- 👀 I’m interested in android dev
 - 🌱 I’m currently learning android
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me tg: @wxlf512
